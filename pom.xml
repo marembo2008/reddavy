@@ -10,5 +10,8 @@
     <module>reddavy-ear</module>
     <module>reddavy-web</module>
     <module>reddavy-ejb</module>
+    <module>reddavy-entity</module>
+    <module>reddavy-service</module>
+    <module>reddavy-ws</module>
   </modules>
 </project>
